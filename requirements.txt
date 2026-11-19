@@ -1,0 +1,15 @@
+# ══════════════════════════════════════════════════════
+# Private Data Intelligence Lab — requirements.txt
+# Install: pip install -r requirements.txt
+# ══════════════════════════════════════════════════════
+
+streamlit>=1.32.0
+ollama>=0.1.8
+pandas>=2.0.0
+numpy>=1.26.0
+openpyxl>=3.1.0
+PyPDF2>=3.0.0
+plotly>=5.18.0
+pyarrow>=14.0.0
+scikit-learn>=1.4.0     # Step 3: anomaly detection (Isolation Forest)
+fpdf2>=2.7.0            # Step 6: PDF report export

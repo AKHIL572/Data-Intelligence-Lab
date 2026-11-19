@@ -1,0 +1,21 @@
+transaction_id,timestamp,customer_id,product_category,quantity,unit_price,discount_pct,total_amount,payment_method,city,country
+TXN1001,2024-01-15 08:32:10,CUST8921,Electronics,1,$499.00,5%,$474.05,Credit Card,New York,United States
+TXN1002,2024-01-15 09:14:22,CUST3412,Clothing,3,$45.00,0%,$135.00,PayPal,London,United Kingdom
+TXN1003,2024-01-15 10:05:41,CUST7721,Home & Kitchen,2,$89.99,10%,$161.98,Debit Card,Toronto,Canada
+TXN1004,2024-01-15 11:20:19,CUST1044,Books,4,$15.50,0%,$62.00,Credit Card,Sydney,Australia
+TXN1005,2024-01-15 12:45:00,CUST9902,Electronics,25,$1200.00,50%,$15000.00,Wire Transfer,Dubai,United Arab Emirates
+TXN1006,2024-01-15 13:12:33,CUST5623,Beauty,2,$32.00,0%,$64.00,Credit Card,Paris,France
+TXN1007,2024-01-15 14:02:11,CUST4119,Clothing,1,$120.00,15%,$102.00,PayPal,Berlin,Germany
+TXN1008,2024-01-15 15:30:45,CUST8812,Electronics,2,$850.00,10%,$1530.00,Credit Card,Tokyo,Japan
+TXN1009,2024-01-15 16:15:20,CUST2301,Home & Kitchen,1,$250.00,5%,$237.50,Credit Card,Singapore,Singapore
+TXN1010,2024-01-15 17:40:55,CUST6743,Sports,3,$75.00,0%,$225.00,Debit Card,Chicago,United States
+TXN1011,2024-01-15 18:22:14,CUST1290,Electronics,1,$199.00,0%,$199.00,Credit Card,San Francisco,United States
+TXN1012,2024-01-15 19:05:01,CUST9981,Clothing,2,$85.00,10%,$153.00,PayPal,Amsterdam,Netherlands
+TXN1013,2024-01-15 20:18:30,CUST5402,Books,1,$22.00,0%,$22.00,Credit Card,London,United Kingdom
+TXN1014,2024-01-15 21:33:12,CUST3019,Electronics,50,$999.00,0%,$49950.00,Cryptocurrency,Unknown,Panama
+TXN1015,2024-01-15 22:10:05,CUST7128,Beauty,4,$18.50,5%,$70.30,Debit Card,Toronto,Canada
+TXN1016,2024-01-16 08:11:45,CUST8102,Sports,1,$350.00,20%,$280.00,Credit Card,New York,United States
+TXN1017,2024-01-16 09:25:30,CUST4401,Home & Kitchen,3,$65.00,0%,$195.00,PayPal,Melbourne,Australia
+TXN1018,2024-01-16 10:40:18,CUST1920,Clothing,5,$30.00,10%,$135.00,Credit Card,Dublin,Ireland
+TXN1019,2024-01-16 11:55:02,CUST6619,Electronics,1,$650.00,0%,$650.00,Credit Card,Munich,Germany
+TXN1020,2024-01-16 13:00:15,CUST9823,Books,2,$14.00,0%,$28.00,Debit Card,Zurich,Switzerland

@@ -1,0 +1,24 @@
+# ══════════════════════════════════════════════════════════════
+# Streamlit Configuration — Privacy Hardened
+# Place this file at: .streamlit/config.toml
+# (in the same folder as app.py)
+# ══════════════════════════════════════════════════════════════
+
+[browser]
+# Disables Streamlit's usage-statistics ping to stats.streamlit.io
+gatherUsageStats = false
+
+[server]
+# Accept connections from localhost ONLY — not your LAN or office network
+address = "127.0.0.1"
+port = 8501
+headless = true
+enableXsrfProtection = true
+enableCORS = false
+
+[global]
+suppressDeprecationWarnings = true
+disableWatchdogWarning = true
+
+[logger]
+level = "error"
